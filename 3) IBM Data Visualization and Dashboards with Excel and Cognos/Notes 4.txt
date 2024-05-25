@@ -1,0 +1,7 @@
+In this lesson you have learned:
+
+The fundamentals of the Cognos Analytics application.
+
+How to sign up for a trial version of Cognos Analytics.
+
+How to navigate around the Cognos Analytics user interface.
